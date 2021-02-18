@@ -1,0 +1,5 @@
+{"records": [{
+    "jsonSchemaLocation": "/samplerest.module/Service Descriptors/samplerest.module.Process-Resource.json",
+    "conversionType": "linked",
+    "xsdSchemaTargetNamespace": "http://www.example.org/Response"
+}]}
