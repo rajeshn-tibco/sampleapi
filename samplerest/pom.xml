@@ -50,7 +50,7 @@
         <version>0.34.1</version>
         <configuration>
           <skip>false</skip>
-          <dockerHost>tcp://192.168.99.100:2375</dockerHost>
+          <dockerHost>tcp://0.0.0.0:2375</dockerHost>
           <!--<certPath>${bwdocker.certPath}</certPath>-->
           <images>
             <image>
