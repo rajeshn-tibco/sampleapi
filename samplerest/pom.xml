@@ -50,8 +50,8 @@
         <version>0.34.1</version>
         <configuration>
           <skip>false</skip>
-          <dockerHost>tcp://localhost:2376</dockerHost>
-          <certPath>${bwdocker.certPath}</certPath>
+          <dockerHost>tcp://0.0.0.0:2375</dockerHost>
+          <!--<certPath>${bwdocker.certPath}</certPath>-->
           <images>
             <image>
               <alias>${bwdocker.containername}</alias>
